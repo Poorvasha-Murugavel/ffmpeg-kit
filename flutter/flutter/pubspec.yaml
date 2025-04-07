@@ -27,6 +27,3 @@ dependencies:
       path: flutter/flutter_platform_interface
   flutter:
     sdk: flutter
-
-dev_dependencies:
-  carapacik_lints: ^1.11.1
